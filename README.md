@@ -1,4 +1,4 @@
-# **캠퍼스업(CampusUp)**
+# **캠퍼스업(CampusUp)**Cancel changes
 
 ### Project - 지역기반 방 임대 서비스
 
@@ -9,9 +9,6 @@
   
 
 - 설명 : FireBase를 사용하여 대학교 학생들의 학번으로 만 가입이 가능하며 가입 후 해당 지역 내에 있는 방만 볼 수 있는 어플. 추가적으로 현재 위치 주변의 동아리 클래스와 커뮤니티를 확인 또는 신청 및 작성이 가능한 어플.
-
-- 배포 X : Firebase 에서 값을 읽어오거나 쓰는경우 로딩이 오래걸리고, 서버를 유지하는데 금액적인 부담이 든다고 판단하여 배포는 하지 않았습니다.
-
   
 - `Android 10`  `Java` 
 - `Firebase (Auth, Database)` `FireStore` `Glide` `Java Mail` 
