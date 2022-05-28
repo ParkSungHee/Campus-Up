@@ -1,4 +1,4 @@
-# **캠퍼스업(CampusUp)**Cancel changes
+# **캠퍼스업(CampusUp)**
 
 ### Project - 지역기반 방 임대 서비스
 
@@ -14,7 +14,7 @@
 
 ------
 - **Database ERD**
- <img width = "1200" height = "680" src ="https://user-images.githubusercontent.com/22094204/170823089-fd10220e-a2a5-44e6-b251-170662ff22ad.png">
+ <img width = "1200" height = "600" src ="https://user-images.githubusercontent.com/22094204/170823089-fd10220e-a2a5-44e6-b251-170662ff22ad.png">
 
 ------
 - **스크린샷**
