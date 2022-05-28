@@ -4,18 +4,17 @@
 
 - **제작 기간 2021년 5월 ~ 7월**
 
-- **멤버 : [박성희](https://github.com/ParkSungHee) (DB 및 개발), [권새롬]()(디자인 및 개발)**
+- **멤버 : [박성희](https://github.com/ParkSungHee) (DB 및 개발(방 내놓기, 아이디/비밀번호 찾기, 커뮤니티, 마이페이지)), [권새롬]()(디자인 및 개발(메인, 홈 화면, 매물 상세페이지, 동아리 클래스))**
 
   
-
-- 설명 : FireBase를 사용하여 대학교 학생들의 학번으로 만 가입이 가능하며 가입 후 해당 지역 내에 있는 방만 볼 수 있는 어플. 추가적으로 현재 위치 주변의 동아리 클래스와 커뮤니티를 확인 또는 신청 및 작성이 가능한 어플.
+- 설명 : FireBase를 사용하여 대학교 학생들의 학번으로 만 가입이 가능하며 가입 후 해당 지역 내에 있는 방만 볼 수 있는 어플. 추가적으로 현재 위치 주변의 동아리 클래스와 커뮤니티를 확인 또는 신청 및 작성이 가능.
   
 - `Android 10`  `Java` 
 - `Firebase (Auth, Database)` `FireStore` `Glide` `Java Mail`
 
 ------
 - **Database ERD**
- <img width = "1200" height = "800" src ="https://user-images.githubusercontent.com/22094204/170823089-fd10220e-a2a5-44e6-b251-170662ff22ad.png">
+ <img width = "1200" height = "680" src ="https://user-images.githubusercontent.com/22094204/170823089-fd10220e-a2a5-44e6-b251-170662ff22ad.png">
 
 ------
 - **스크린샷**
