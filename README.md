@@ -11,10 +11,13 @@
 - 설명 : FireBase를 사용하여 대학교 학생들의 학번으로 만 가입이 가능하며 가입 후 해당 지역 내에 있는 방만 볼 수 있는 어플. 추가적으로 현재 위치 주변의 동아리 클래스와 커뮤니티를 확인 또는 신청 및 작성이 가능한 어플.
   
 - `Android 10`  `Java` 
-- `Firebase (Auth, Database)` `FireStore` `Glide` `Java Mail` 
+- `Firebase (Auth, Database)` `FireStore` `Glide` `Java Mail`
 
 ------
+- **Database ERD**
+ <img width = "600" height = "400" src ="https://user-images.githubusercontent.com/22094204/170823089-fd10220e-a2a5-44e6-b251-170662ff22ad.png">
 
+------
 - **스크린샷**
 
   - 메인 부분
