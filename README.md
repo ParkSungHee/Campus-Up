@@ -15,7 +15,7 @@
 
 ------
 - **Database ERD**
- <img width = "600" height = "400" src ="https://user-images.githubusercontent.com/22094204/170823089-fd10220e-a2a5-44e6-b251-170662ff22ad.png">
+ <img width = "1200" height = "800" src ="https://user-images.githubusercontent.com/22094204/170823089-fd10220e-a2a5-44e6-b251-170662ff22ad.png">
 
 ------
 - **스크린샷**
